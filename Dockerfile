@@ -12,6 +12,7 @@ COPY ./spritezero-cli /spritezero-cli
 WORkDIR /spritezero-cli
 RUN npm install @mapbox/spritezero
 RUN npm install
+RUN npm install multiline
 
 COPY ./input /input
 
