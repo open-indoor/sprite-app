@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="64"
+   height="64"
+   viewBox="0 0 16.933333 16.933334"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (c3084ef, 2021-09-22)"
+   sodipodi:docname="door_filled_64.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     units="px"
+     inkscape:zoom="5.2208926"
+     inkscape:cx="33.327634"
+     inkscape:cy="43.00031"
+     inkscape:window-width="1323"
+     inkscape:window-height="773"
+     inkscape:window-x="94"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0963855;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1031"
+       cx="8.4666662"
+       cy="8.4666662"
+       r="7.951807" />
+    <g
+       style="fill:#000000"
+       id="g833"
+       transform="matrix(0.61111111,0,0,0.61111111,1.1333333,1.1333333)">
+      <path
+         d="M 14,6 V 21 H 3 V 19 H 5 V 3 h 9 v 1 h 5 v 15 h 2 v 2 H 17 V 6 Z m -4,5 v 2 h 2 v -2 z"
+         id="path824" />
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="64"
+   height="64"
+   viewBox="0 0 16.933333 16.933333"
+   version="1.1"
+   id="svg880"
+   inkscape:version="1.1.1 (c3084ef, 2021-09-22)"
+   sodipodi:docname="elevator_64.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview882"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="3.7099198"
+     inkscape:cx="38.814855"
+     inkscape:cy="47.305605"
+     inkscape:window-width="1323"
+     inkscape:window-height="777"
+     inkscape:window-x="117"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g1878"
+     units="px" />
+  <defs
+     id="defs877" />
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-102.94299,-198.30204)">
+    <g
+       id="g1150"
+       transform="translate(41.682415,-54.433105)">
+      <g
+         id="g198233"
+         transform="matrix(0.22160953,0,0,0.19241231,52.690209,210.20357)">
+        <g
+           id="g1878"
+           transform="matrix(0.79999999,0,0,0.8,9.8404543,46.634119)">
+          <circle
+             style="fill:#c2a9d4;fill-opacity:1;stroke:#ffffff;stroke-width:0.25;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+             id="circle198213"
+             cx="71.260574"
+             cy="262.73514"
+             r="10"
+             transform="matrix(4.5124414,0,0,5.1971727,-237.76147,-1092.4642)" />
+          <g
+             id="g1860">
+            <rect
+               fill="none"
+               stroke="#ffffff"
+               stroke-width="2.64583"
+               x="59.985184"
+               y="260.448"
+               width="47.625"
+               height="47.625"
+               rx="6.614583"
+               id="rect198223" />
+            <g
+               id="use198225"
+               fill="#ffffff"
+               transform="matrix(0.26460956,0,0,0.26458638,68.483435,268.55405)">
+              <circle
+                 r="15"
+                 cx="25"
+                 cy="0"
+                 id="circle1502" />
+              <rect
+                 width="50"
+                 height="70"
+                 rx="10"
+                 y="20"
+                 id="rect1504"
+                 x="0" />
+              <rect
+                 width="13"
+                 height="70"
+                 rx="10"
+                 x="10"
+                 y="70"
+                 id="rect1506" />
+              <rect
+                 width="13"
+                 height="70"
+                 rx="10"
+                 x="27"
+                 y="70"
+                 id="rect1508" />
+            </g>
+            <g
+               id="use198227"
+               fill="#ffffff"
+               transform="matrix(0.26460956,0,0,0.26458638,87.004268,268.55405)">
+              <circle
+                 r="15"
+                 cx="25"
+                 cy="0"
+                 id="circle1512" />
+              <rect
+                 width="50"
+                 height="70"
+                 rx="10"
+                 y="20"
+                 id="rect1514"
+                 x="0" />
+              <rect
+                 width="13"
+                 height="70"
+                 rx="10"
+                 x="10"
+                 y="70"
+                 id="rect1516" />
+              <rect
+                 width="13"
+                 height="70"
+                 rx="10"
+                 x="27"
+                 y="70"
+                 id="rect1518" />
+            </g>
+            <polyline
+               points="0,30 30,0 60,30 30,0 30,60"
+               stroke="#ffffff"
+               stroke-width="20"
+               stroke-linecap="round"
+               stroke-linejoin="round"
+               fill="none"
+               transform="matrix(0.26458333,0,0,0.26458333,87.766433,239.28133)"
+               id="polyline198229"
+               style="fill:none" />
+            <polyline
+               points="0,30 30,0 60,30 30,0 30,60"
+               stroke="#ffffff"
+               stroke-width="20"
+               stroke-linecap="round"
+               stroke-linejoin="round"
+               fill="none"
+               transform="matrix(-0.26458333,0,0,-0.26458333,81.15185,255.15633)"
+               id="polyline198231"
+               style="fill:none" />
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

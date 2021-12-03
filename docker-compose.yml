@@ -1,0 +1,14 @@
+services:
+  spritezero:
+    build: .
+    # working_dir: /spritezero-cli
+    entrypoint: ["/bin/sh","-c"]
+    command:
+    - |    
+      /spritezero-cli/bin/spritezero           /sprite-64/sprite    /input/64
+      /spritezero-cli/bin/spritezero --ratio=2 /sprite-64/sprite@2x /input/64
+
+    volumes:
+    - ./input:/input
+    - ./output:/sprite-64
+    - ./spritezero-cli:/spritezero-cli
