@@ -4,9 +4,9 @@
 <svg
    width="64"
    height="64"
-   viewBox="0 0 16.933333 16.933333"
+   viewBox="0 0 16.933333 16.933334"
    version="1.1"
-   id="svg880"
+   id="svg5"
    inkscape:version="1.1.1 (c3084ef, 2021-09-22)"
    sodipodi:docname="elevator_64.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -14,7 +14,7 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
-     id="namedview882"
+     id="namedview7"
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
@@ -23,134 +23,131 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="3.7099198"
-     inkscape:cx="38.814855"
-     inkscape:cy="47.305605"
+     units="px"
+     inkscape:zoom="2.8099351"
+     inkscape:cx="22.064567"
+     inkscape:cy="36.477711"
      inkscape:window-width="1323"
-     inkscape:window-height="777"
-     inkscape:window-x="117"
+     inkscape:window-height="779"
+     inkscape:window-x="83"
      inkscape:window-y="25"
      inkscape:window-maximized="0"
-     inkscape:current-layer="g1878"
-     units="px" />
+     inkscape:current-layer="g2334" />
   <defs
-     id="defs877" />
+     id="defs2" />
   <g
      inkscape:label="Calque 1"
      inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(-102.94299,-198.30204)">
+     id="layer1">
     <g
-       id="g1150"
-       transform="translate(41.682415,-54.433105)">
+       id="g199328"
+       transform="matrix(0.79999856,0,0,0.79602307,-11.550663,-181.89027)"
+       inkscape:export-filename="/Users/fred/Documents/pictos carte/proposition pictos et couleurs.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       style="stroke-width:0.25062395;stroke-miterlimit:4;stroke-dasharray:none">
       <g
-         id="g198233"
-         transform="matrix(0.22160953,0,0,0.19241231,52.690209,210.20357)">
+         id="g2334"
+         transform="matrix(1.005819,0,0,1.005819,-0.33761707,-1.3958305)">
+        <path
+           d="m 17.498781,229.15033 c -1.425794,0 -2.227289,0.7396 -2.227289,2.25074 v 15.57767 c 0,1.41352 0.720745,2.1536 2.145229,2.1536 h 15.591955 c 1.424828,0 2.146505,-0.70306 2.146505,-2.1536 v -15.57767 c 0,-1.47432 -0.721677,-2.25074 -2.191071,-2.25074 -1.38e-4,0 -15.470228,-0.005 -15.465329,0 z"
+           style="fill:#c2a8d4;fill-opacity:1;stroke:#ffffff;stroke-width:0.249174;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path1329-7-8" />
         <g
-           id="g1878"
-           transform="matrix(0.79999999,0,0,0.8,9.8404543,46.634119)">
-          <circle
-             style="fill:#c2a9d4;fill-opacity:1;stroke:#ffffff;stroke-width:0.25;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
-             id="circle198213"
-             cx="71.260574"
-             cy="262.73514"
-             r="10"
-             transform="matrix(4.5124414,0,0,5.1971727,-237.76147,-1092.4642)" />
+           id="g1860"
+           transform="matrix(0.24824825,0,0,0.19381304,4.4099837,186.22523)">
+          <rect
+             fill="none"
+             stroke="#ffffff"
+             stroke-width="2.64583"
+             x="59.985184"
+             y="260.448"
+             width="47.625"
+             height="47.625"
+             rx="6.614583"
+             id="rect198223" />
           <g
-             id="g1860">
+             id="use198225"
+             fill="#ffffff"
+             transform="matrix(0.26460956,0,0,0.26458638,68.483435,268.55405)">
+            <circle
+               r="15"
+               cx="25"
+               cy="0"
+               id="circle1502" />
             <rect
-               fill="none"
-               stroke="#ffffff"
-               stroke-width="2.64583"
-               x="59.985184"
-               y="260.448"
-               width="47.625"
-               height="47.625"
-               rx="6.614583"
-               id="rect198223" />
-            <g
-               id="use198225"
-               fill="#ffffff"
-               transform="matrix(0.26460956,0,0,0.26458638,68.483435,268.55405)">
-              <circle
-                 r="15"
-                 cx="25"
-                 cy="0"
-                 id="circle1502" />
-              <rect
-                 width="50"
-                 height="70"
-                 rx="10"
-                 y="20"
-                 id="rect1504"
-                 x="0" />
-              <rect
-                 width="13"
-                 height="70"
-                 rx="10"
-                 x="10"
-                 y="70"
-                 id="rect1506" />
-              <rect
-                 width="13"
-                 height="70"
-                 rx="10"
-                 x="27"
-                 y="70"
-                 id="rect1508" />
-            </g>
-            <g
-               id="use198227"
-               fill="#ffffff"
-               transform="matrix(0.26460956,0,0,0.26458638,87.004268,268.55405)">
-              <circle
-                 r="15"
-                 cx="25"
-                 cy="0"
-                 id="circle1512" />
-              <rect
-                 width="50"
-                 height="70"
-                 rx="10"
-                 y="20"
-                 id="rect1514"
-                 x="0" />
-              <rect
-                 width="13"
-                 height="70"
-                 rx="10"
-                 x="10"
-                 y="70"
-                 id="rect1516" />
-              <rect
-                 width="13"
-                 height="70"
-                 rx="10"
-                 x="27"
-                 y="70"
-                 id="rect1518" />
-            </g>
-            <polyline
-               points="0,30 30,0 60,30 30,0 30,60"
-               stroke="#ffffff"
-               stroke-width="20"
-               stroke-linecap="round"
-               stroke-linejoin="round"
-               fill="none"
-               transform="matrix(0.26458333,0,0,0.26458333,87.766433,239.28133)"
-               id="polyline198229"
-               style="fill:none" />
-            <polyline
-               points="0,30 30,0 60,30 30,0 30,60"
-               stroke="#ffffff"
-               stroke-width="20"
-               stroke-linecap="round"
-               stroke-linejoin="round"
-               fill="none"
-               transform="matrix(-0.26458333,0,0,-0.26458333,81.15185,255.15633)"
-               id="polyline198231"
-               style="fill:none" />
+               width="50"
+               height="70"
+               rx="10"
+               y="20"
+               id="rect1504"
+               x="0" />
+            <rect
+               width="13"
+               height="70"
+               rx="10"
+               x="10"
+               y="70"
+               id="rect1506" />
+            <rect
+               width="13"
+               height="70"
+               rx="10"
+               x="27"
+               y="70"
+               id="rect1508" />
           </g>
+          <g
+             id="use198227"
+             fill="#ffffff"
+             transform="matrix(0.26460956,0,0,0.26458638,87.004268,268.55405)">
+            <circle
+               r="15"
+               cx="25"
+               cy="0"
+               id="circle1512" />
+            <rect
+               width="50"
+               height="70"
+               rx="10"
+               y="20"
+               id="rect1514"
+               x="0" />
+            <rect
+               width="13"
+               height="70"
+               rx="10"
+               x="10"
+               y="70"
+               id="rect1516" />
+            <rect
+               width="13"
+               height="70"
+               rx="10"
+               x="27"
+               y="70"
+               id="rect1518" />
+          </g>
+          <polyline
+             points="0,30 30,0 60,30 30,0 30,60"
+             stroke="#ffffff"
+             stroke-width="20"
+             stroke-linecap="round"
+             stroke-linejoin="round"
+             fill="none"
+             transform="matrix(0.26458333,0,0,0.26458333,87.766433,239.28133)"
+             id="polyline198229"
+             style="fill:none" />
+          <polyline
+             points="0,30 30,0 60,30 30,0 30,60"
+             stroke="#ffffff"
+             stroke-width="20"
+             stroke-linecap="round"
+             stroke-linejoin="round"
+             fill="none"
+             transform="matrix(-0.26458333,0,0,-0.26458333,81.15185,255.15633)"
+             id="polyline198231"
+             style="fill:none" />
         </g>
       </g>
     </g>

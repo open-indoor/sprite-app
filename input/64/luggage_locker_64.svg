@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="64"
+   height="64"
+   viewBox="0 0 16.933333 16.933333"
+   version="1.1"
+   id="svg1921"
+   inkscape:version="1.1.1 (c3084ef, 2021-09-22)"
+   sodipodi:docname="luggage_locker_64.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1923"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="3.7334103"
+     inkscape:cx="30.133307"
+     inkscape:cy="52.900695"
+     inkscape:window-width="1440"
+     inkscape:window-height="777"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g199354"
+     units="px"
+     width="64px" />
+  <defs
+     id="defs1918" />
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-123.85915,-134.83979)">
+    <g
+       id="g199354"
+       transform="translate(73.509698,-66.233712)"
+       inkscape:export-filename="/Users/fred/Documents/pictos carte/proposition pictos et couleurs.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <circle
+         style="fill:#5a8cd2;fill-opacity:1;stroke:#ffffff;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path1607"
+         cx="58.81612"
+         cy="209.54016"
+         r="8" />
+      <g
+         id="g1290"
+         transform="translate(0,-0.05112805)">
+        <g
+           id="g1968"
+           transform="matrix(0.17638952,0,0,0.17638952,55.55986,201.32716)"
+           style="fill:#ffffff;fill-opacity:1">
+          <path
+             id="path998"
+             style="fill:#ffffff;fill-opacity:1;stroke-width:1.70079"
+             d="m 35.058594,60.404297 c -1.887874,0 -3.402344,1.51447 -3.402344,3.402344 v 3.40039 H 27.564453 V 92.71875 H 49.355469 V 67.207031 h -4.09375 v -3.40039 c 0,-1.887874 -1.512517,-3.402344 -3.400391,-3.402344 z m 0,3.402344 h 6.802734 v 3.40039 h -6.802734 z"
+             transform="translate(-19.998369,-22.94301)" />
+          <path
+             style="fill:#ffffff;fill-opacity:1;stroke-width:1.70079"
+             d="M 25.318359,92.71875 V 67.207031 h -0.464843 c -1.887874,0 -3.384766,1.51447 -3.384766,3.402344 l -0.01758,18.708984 c 0,1.887874 1.51447,3.400391 3.402344,3.400391 z"
+             id="path1242"
+             transform="translate(-19.998369,-22.94301)" />
+          <path
+             style="fill:#ffffff;fill-opacity:1;stroke-width:1.70079"
+             d="M 51.601562,67.207031 V 92.71875 h 0.464844 c 1.887874,0 3.400391,-1.512517 3.400391,-3.400391 V 70.609375 c 0,-1.887874 -1.512517,-3.402344 -3.400391,-3.402344 z"
+             id="path1236"
+             transform="translate(-19.998369,-22.94301)" />
+        </g>
+        <g
+           id="g2138"
+           transform="matrix(0.19186364,0,0,0.19186364,56.513755,202.5132)"
+           style="fill:#ffffff;fill-opacity:1">
+          <path
+             d="M 21,10 H 12.65 C 11.83,7.67 9.61,6 7,6 3.69,6 1,8.69 1,12 c 0,3.31 2.69,6 6,6 2.61,0 4.83,-1.67 5.65,-4 H 13 l 2,2 2,-2 2,2 4,-4.04 z M 7,15 C 5.35,15 4,13.65 4,12 4,10.35 5.35,9 7,9 c 1.65,0 3,1.35 3,3 0,1.65 -1.35,3 -3,3 z"
+             id="path2136"
+             style="fill:#ffffff;fill-opacity:1" />
+        </g>
+        <rect
+           style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.442;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect939"
+           width="8.9761515"
+           height="6.9079304"
+           x="54.328041"
+           y="207.33095" />
+      </g>
+    </g>
+  </g>
+</svg>
