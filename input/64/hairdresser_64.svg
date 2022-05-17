@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="64"
+   height="64"
+   viewBox="0 0 16.933333 16.933334"
+   version="1.1"
+   id="svg5"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2">
+    <symbol
+       id="symbol-university"
+       viewBox="244.5 110 489 219.9">
+      <path
+         d="M79,43l57,119c0,0,21-96,104-96s124,106,124,106l43-133l82-17L0,17L79,43z"
+         id="path4460" />
+      <path
+         fill="none"
+         stroke="#000000"
+         stroke-width="20"
+         d="M94,176l-21,39"
+         id="path4462" />
+      <path
+         d="M300,19c0,10.5-22.6,19-50.5,19S199,29.5,199,19s22.6-19,50.5-19S300,8.5,300,19z"
+         id="path4464" />
+      <path
+         ill="none"
+         stroke="#000000"
+         stroke-width="20"
+         d="M112,216l-16-38L64,88c0,0-9-8-4-35s16-24,16-24"
+         id="path4466" />
+    </symbol>
+    <symbol
+       viewBox="244.5 110 489 219.9"
+       id="symbol9807">
+      <path
+         id="path9809"
+         d="M79,43l57,119c0,0,21-96,104-96s124,106,124,106l43-133l82-17L0,17L79,43z" />
+      <path
+         id="path9811"
+         d="M94,176l-21,39"
+         stroke-width="20"
+         stroke="#000000"
+         fill="none" />
+      <path
+         id="path9813"
+         d="M300,19c0,10.5-22.6,19-50.5,19S199,29.5,199,19s22.6-19,50.5-19S300,8.5,300,19z" />
+      <path
+         id="path9815"
+         d="M112,216l-16-38L64,88c0,0-9-8-4-35s16-24,16-24"
+         stroke-width="20"
+         stroke="#000000"
+         ill="none" />
+    </symbol>
+    <defs
+       id="defs48974" />
+  </defs>
+  <g
+     id="layer1">
+    <circle
+       style="fill:#ffb347;stroke-width:0.2;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path846"
+       cx="8.4666662"
+       cy="8.4666662"
+       r="8" />
+    <g
+       id="g1870"
+       transform="matrix(0.6875,0,0,0.6875,2.9666667,2.9666667)">
+      <rect
+         width="16"
+         height="16"
+         x="0"
+         y="0"
+         id="canvas"
+         style="visibility:hidden;fill:none;stroke:none" />
+      <path
+         d="M 4,0 V 9.53125 C 3.580263,9.212414 3.064535,9 2.5,9 1.12521,9 0,10.12521 0,11.5 0,12.87479 1.12521,14 2.5,14 3.702941,14 4.703332,13.136374 4.9375,12 h 0.125 C 5.296668,13.136374 6.297059,14 7.5,14 8.87479,14 10,12.87479 10,11.5 10,10.12521 8.87479,9 7.5,9 6.935465,9 6.419737,9.212414 6,9.53125 V 0 Z m 4,0 v 2 h 4 V 3 H 8 v 1 h 4 V 5 H 8 v 1 h 4 V 7 H 8 v 1 h 4 v 6 h 2 V 2 C 14,1 13,0 12,0 Z M 2.5,10 C 3.334349,10 4,10.665651 4,11.5 4,12.334349 3.334349,13 2.5,13 1.665651,13 1,12.334349 1,11.5 1,10.665651 1.665651,10 2.5,10 Z m 5,0 C 8.334349,10 9,10.665651 9,11.5 9,12.334349 8.334349,13 7.5,13 6.665651,13 6,12.334349 6,11.5 6,10.665651 6.665651,10 7.5,10 Z"
+         id="hairdresser"
+         style="fill:#ffffff;fill-opacity:1;stroke:none"
+         transform="translate(1,1)" />
+    </g>
+  </g>
+</svg>

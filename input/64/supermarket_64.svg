@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="64"
+   height="64"
+   viewBox="0 0 16.933333 16.933334"
+   version="1.1"
+   id="svg5"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2">
+    <symbol
+       id="symbol-university"
+       viewBox="244.5 110 489 219.9">
+      <path
+         d="M79,43l57,119c0,0,21-96,104-96s124,106,124,106l43-133l82-17L0,17L79,43z"
+         id="path4460" />
+      <path
+         fill="none"
+         stroke="#000000"
+         stroke-width="20"
+         d="M94,176l-21,39"
+         id="path4462" />
+      <path
+         d="M300,19c0,10.5-22.6,19-50.5,19S199,29.5,199,19s22.6-19,50.5-19S300,8.5,300,19z"
+         id="path4464" />
+      <path
+         ill="none"
+         stroke="#000000"
+         stroke-width="20"
+         d="M112,216l-16-38L64,88c0,0-9-8-4-35s16-24,16-24"
+         id="path4466" />
+    </symbol>
+    <symbol
+       viewBox="244.5 110 489 219.9"
+       id="symbol9807">
+      <path
+         id="path9809"
+         d="M79,43l57,119c0,0,21-96,104-96s124,106,124,106l43-133l82-17L0,17L79,43z" />
+      <path
+         id="path9811"
+         d="M94,176l-21,39"
+         stroke-width="20"
+         stroke="#000000"
+         fill="none" />
+      <path
+         id="path9813"
+         d="M300,19c0,10.5-22.6,19-50.5,19S199,29.5,199,19s22.6-19,50.5-19S300,8.5,300,19z" />
+      <path
+         id="path9815"
+         d="M112,216l-16-38L64,88c0,0-9-8-4-35s16-24,16-24"
+         stroke-width="20"
+         stroke="#000000"
+         ill="none" />
+    </symbol>
+    <defs
+       id="defs48974" />
+  </defs>
+  <g
+     id="layer1">
+    <circle
+       style="fill:#ffb347;stroke-width:0.2;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path846"
+       cx="8.4666662"
+       cy="8.4666662"
+       r="8" />
+    <g
+       id="g1870"
+       transform="matrix(0.6875,0,0,0.6875,2.9666667,2.9666667)">
+      <rect
+         width="16"
+         height="16"
+         x="0"
+         y="0"
+         id="canvas"
+         style="visibility:hidden;fill:none;stroke:none" />
+      <g
+         id="g2053"
+         transform="scale(1.1428571)">
+        <rect
+           id="canvas-8"
+           width="14"
+           height="14"
+           fill="none"
+           visibility="hidden"
+           x="0"
+           y="0" />
+        <g
+           id="g2267"
+           transform="matrix(1.0015454,0,0,1.0015454,-1.8377987e-7,24.893034)">
+          <g
+             id="g2382"
+             transform="translate(0,-24.051225)"
+             style="fill:#ffffff">
+            <g
+               id="vbars"
+               style="fill:#ffffff">
+              <rect
+                 x="3.5"
+                 y="2.5"
+                 width="0.5"
+                 height="5"
+                 style="fill:#ffffff"
+                 id="rect2225" />
+              <rect
+                 x="5.5"
+                 y="2.5"
+                 width="0.5"
+                 height="5.5"
+                 style="fill:#ffffff"
+                 id="rect2227" />
+              <rect
+                 x="7.5"
+                 y="2.5"
+                 width="0.5"
+                 height="6"
+                 style="fill:#ffffff"
+                 id="rect2229" />
+              <rect
+                 x="9.5"
+                 y="2.5"
+                 width="0.5"
+                 height="6"
+                 style="fill:#ffffff"
+                 id="rect2231" />
+            </g>
+            <g
+               id="hbars"
+               style="fill:#ffffff">
+              <rect
+                 x="1"
+                 y="4"
+                 width="10.5"
+                 height="0.5"
+                 style="fill:#ffffff"
+                 id="rect2234" />
+              <rect
+                 x="1"
+                 y="6"
+                 width="10.5"
+                 height="0.5"
+                 style="fill:#ffffff"
+                 id="rect2236" />
+            </g>
+            <g
+               id="wheels"
+               style="fill:#ffffff">
+              <circle
+                 cx="9.5"
+                 cy="11.2"
+                 r="1"
+                 style="fill:#ffffff"
+                 id="circle2239" />
+              <circle
+                 cx="3.5"
+                 cy="11.2"
+                 r="1"
+                 style="fill:#ffffff"
+                 id="circle2241" />
+            </g>
+            <path
+               id="base"
+               d="m 11,9 v 2 H 1.5 a 0.5,0.5 0 1 1 0,-1 H 10 V 8.5 Z"
+               style="fill:#ffffff" />
+            <path
+               id="handle"
+               d="M 11.5,2 11.768,0.75 13.25,0.2 A 0.55339859,0.55339859 0 0 1 13.6,1.25 L 12.6,1.6 12.5,2"
+               style="fill:#ffffff" />
+            <path
+               id="body"
+               fill-rule="evenodd"
+               d="M 0,2 H 12.5 L 11,9 1,8 M 1.167,3 H 11.286 L 10.25,7.9 1.9,7.1 Z"
+               style="fill:#ffffff" />
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
