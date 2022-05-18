@@ -25,13 +25,13 @@
      showgrid="false"
      units="px"
      inkscape:zoom="3.7494157"
-     inkscape:cx="22.803553"
+     inkscape:cx="15.202369"
      inkscape:cy="40.406296"
-     inkscape:window-width="1440"
-     inkscape:window-height="787"
-     inkscape:window-x="0"
+     inkscape:window-width="1323"
+     inkscape:window-height="781"
+     inkscape:window-x="72"
      inkscape:window-y="25"
-     inkscape:window-maximized="1"
+     inkscape:window-maximized="0"
      inkscape:current-layer="layer1" />
   <defs
      id="defs2">
@@ -62,7 +62,7 @@
      inkscape:groupmode="layer"
      id="layer1">
     <circle
-       style="fill:#fd3f28;stroke-width:0.2;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:#be2b22;stroke-width:0.2;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
        id="path846"
        cx="8.4666662"
        cy="8.4666662"
